@@ -16,4 +16,4 @@ Necessary things:
 COVID-19 cases data was scrapped from WorldMeter(https://www.worldometers.info/coronavirus/); Michigan vaccination data was scrapped from Lansing State Journal (https://data.lansingstatejournal.com/covid-19-vaccine-tracker/michigan/26/)
 
 # Interaction and Presentation
-In vaccination data part, several summarized figures will be shown to you based on your own interest, including a comparision of first dose rate in different Michigan counties, etc.
+In vaccination data part, several summarized figures will be shown to you based on your own interest, including a comparison of first dose rate in different Michigan counties, etc.
