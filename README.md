@@ -1,1 +1,1 @@
-# Inquiry different countries' COVID-19 case data & vaccination data in Michigan's counties
+# COVID-19 Case/Death/Recovery & Vaccination Data in Michigan
